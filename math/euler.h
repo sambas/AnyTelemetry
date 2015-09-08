@@ -1,0 +1,1 @@
+/** * @file euler.h * euler interface */#ifndef _EULER_H#define _EULER_H/** * @addtogroup ufo * @{ *//** * @addtogroup math * @{ *//** * @defgroup euler * euler math support * @{ *//** @} *//** @} *//** @} */#endif /* _EULER_H */
